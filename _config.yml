@@ -16,8 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "niklasmueller.pdf", title: "CV"}
-  - {file: "README.md"}
+  - {file: "Scientific_CV_NiklasMueller-EN.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:n.muller@uva.nl"}
